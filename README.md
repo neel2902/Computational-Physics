@@ -1,6 +1,6 @@
 # Computational Physics
 
-### This repository contains the concepts taught in the computational physics code, translated to MATLAB code.
+### This repository contains the concepts taught in the computational physics course, translated to MATLAB code.
 
 ## Topics
 * Newton Raphson Method for a system of non linear equations
